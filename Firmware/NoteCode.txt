@@ -1,0 +1,9 @@
+UsbTx [64]
+	0 - report byte
+	1 - 0x00
+	2 - command
+	4 - axis
+	3 - REG0cmd
+	17 reg0 to reg7 
+	
+	
